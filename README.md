@@ -99,7 +99,7 @@ The Chi-square analysis produced a **χ² value of 12.36, with 5 degrees of free
 
 * [Afriment Learners Demography – Introduction Presentation](./Afriment%20Learners%20Demography%20intro.pptx)
 * [Afriment Learners Demography – Conclusion Presentation](./Afriment%20Learners%20Demography%20conclusion.pptx)
-* Interactive Google Looker Studio Dashboard
+
 
 ### Dashboard
 
