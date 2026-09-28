@@ -95,6 +95,12 @@ The Chi-square analysis produced a **χ² value of 12.36, with 5 degrees of free
 
 ## 10. Project Deliverables
 
+### Project Files
+
+* [Afriment Learners Demography – Introduction Presentation](./Afriment%20Learners%20Demography%20intro.pptx)
+* [Afriment Learners Demography – Conclusion Presentation](./Afriment%20Learners%20Demography%20conclusion.pptx)
+* Interactive Google Looker Studio Dashboard
+
 ### Dashboard
 
 An interactive **Google Looker Studio dashboard** was developed to present key waitlist and onboarding insights, including:
@@ -105,12 +111,7 @@ An interactive **Google Looker Studio dashboard** was developed to present key w
 * Referral-source patterns
 * Learner demographics
 
-### Project Files
-
-* Afriment Learners Demography – Introduction Presentation
-* Afriment Learners Demography – Conclusion Presentation
-* Interactive Google Looker Studio Dashboard
-
+Afriment Learners Demography conclusion.pptx
 ### Analysis Outputs
 
 * Data cleaning and preparation
