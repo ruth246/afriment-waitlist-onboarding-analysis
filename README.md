@@ -93,7 +93,7 @@ The Chi-square analysis produced a **χ² value of 12.36, with 5 degrees of free
 * **Google Looker Studio** — interactive dashboards and data visualization.
 * **Statistical Analysis** — correlation analysis and hypothesis testing.
 
-## 10. Dashboard & Project Deliverables
+## 10. Project Deliverables
 
 ### Dashboard
 
@@ -102,14 +102,20 @@ An interactive **Google Looker Studio dashboard** was developed to present key w
 * Cohort participation
 * Gender distribution
 * Geographic distribution
-* Referral-source performance
-* Key demographic patterns
+* Referral-source patterns
+* Learner demographics
 
-### Project Deliverables
+### Project Files
 
-* Cleaned dataset
-* SQL analysis
+* Afriment Learners Demography – Introduction Presentation
+* Afriment Learners Demography – Conclusion Presentation
+* Interactive Google Looker Studio Dashboard
+
+### Analysis Outputs
+
+* Data cleaning and preparation
 * Excel analysis
+* SQL analysis
 * Statistical analysis
-* Interactive Looker Studio dashboard
+* Key findings and insights
 * Data-driven recommendations
